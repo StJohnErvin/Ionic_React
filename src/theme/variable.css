@@ -1,0 +1,18 @@
+:root {
+    --ion-color-primary: #008174 !important;
+    --ion-color-primary-rgb: 56,128,255;
+    --ion-color-primary-contrast: #ffffff !important;
+    --ion-color-primary-contrast-rgb: 255,255,255 !important;
+    --ion-color-primary-shade: #00524a !important; 
+    --ion-color-primary-tint: #00b3a1 !important;
+    
+   
+  }
+
+  .h3{
+--ion-text-color:#008174 !important;
+
+  }
+  .md {
+    --ion-text-color: #008174 !important;
+  }
